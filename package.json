@@ -2,7 +2,7 @@
   "author": "Robert Bruce <rob@robert-bruce.co.uk>",
   "name": "node-osgridref",
   "description": "Converts coordinates (e.g. lat/long to OS National Grid Reference). Uses scripts from www.movable-type.co.uk/scripts/latlon-gridref.html for internal calculations.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "keywords": ["gps", "coordinates", "conversion", "latitude", "longitude", "lat/long", "coordinate", "system", "os", "ordnance survey"],
   "repository": {
     "type": "git",
